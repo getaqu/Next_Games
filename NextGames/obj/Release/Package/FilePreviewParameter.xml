@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="NextGames7880" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\stephen\ avae\\documents\\visual\ studio\ 2013\\Projects\\NextGames\\NextGames\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\stephen\ avae\\documents\\visual\ studio\ 2013\\Projects\\NextGames\\NextGames\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
